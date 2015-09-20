@@ -2,15 +2,6 @@
 
 ## [出席登録へ](http://edu.amdv.net/java/att.php)
 
-# 後期資料
-3種類の形式で配布しています。PDF形式はタブレット端末で見たり、印刷するために利用してください。
-
-| |Power Point|スライドPDF|配布資料PDF|
-|:--:|:--------|:-------|:---------|
-|その1|[JavaLectureII01.pptx](http://edu.amdv.net/java/JavaLectureII01.pptx)|[JavaLectureII01.pdf](http://edu.amdv.net/java/JavaLectureII01.pdf)|[JavaLectureII01x.pdf](http://edu.amdv.net/java/JavaLectureII01x.pdf)|
-|その2|[JavaLectureII02.pptx](http://edu.amdv.net/java/JavaLectureII02.pptx)|[JavaLectureII02.pdf](http://edu.amdv.net/java/JavaLectureII02.pdf)||
-|その3|[JavaLectureII03.pptx](http://edu.amdv.net/java/JavaLectureII03.pptx)|[JavaLectureII03.pdf](http://edu.amdv.net/java/JavaLectureII03.pdf)|[JavaLectureII03x.pdf](http://edu.amdv.net/java/JavaLectureII03x.pdf)|
-
 # 先に進みたい人は…
 - [HerokuのPlay!](https://devcenter.heroku.com/articles/getting-started-with-play)
  - http://www.atmarkit.co.jp/ait/articles/1204/09/news114_2.html
@@ -35,7 +26,7 @@ Javaの主要な利用先は、サーバサイドかAndroid開発。講義内容
 - Hello.javaの作成、実行
 - paiza.ioで作成したコードをGitHubのGistに登録
 
-[1回目]()
+[講義資料](https://github.com/tanakaedu/java2015/wiki/01%E5%9B%9E%E7%9B%AE)
 
 
 # リンク
