@@ -26,7 +26,7 @@ Javaの主要な利用先は、サーバサイドかAndroid開発。講義内容
 - [MilkcocoaのチュートリアルをGithubで動かす方法](https://github.com/tanakaedu/dat14_fall/wiki/Milkcocoa%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E4%BD%BF%E3%81%86)
 
 # 1回目
-- [シラバスの確認](https://next.tama.ac.jp/up/faces/up/km/Kms00802A.jsp)
+- [シラバスの確認](https://github.com/tanakaedu/java2015/blob/master/designii.pdf)
 
 ## 今日の作業
 - GitHubのアカウント作成
