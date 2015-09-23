@@ -2,6 +2,20 @@
 
 ## [出席登録へ](http://edu.amdv.net/java/att.php)
 
+# 2回目
+- PCを起動したら、ChromeかFirefoxを起動
+- [GitHub](https://github.com)にSign in
+- [paiza.io](https://paiza.io)を開いて、[ログイン]>[GitHubログイン]
+
+## 教材紹介
+- [前期の資料(学内からのみアクセス可)](http://www.rye.tama.ac.jp/hiki/?Lecture)
+- [ドットインストール Java入門](http://dotinstall.com/lessons/basic_java)
+
+## 今日の作業
+- 前期の復習：入出力、計算
+
+----
+
 # 先に進みたい人は…
 - [HerokuのPlay!](https://devcenter.heroku.com/articles/getting-started-with-play)
  - http://www.atmarkit.co.jp/ait/articles/1204/09/news114_2.html
