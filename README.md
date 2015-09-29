@@ -17,6 +17,8 @@
 ----
 
 # 先に進みたい人は…
+- [paiza プログラミングスキルチェック](https://paiza.jp/challenges/info)
+- [paiza開発日誌 初心者でもほぼ無料でJavaを勉強できるコンテンツ10選](http://paiza.hatenablog.com/entry/2015/03/31/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82%E3%81%BB%E3%81%BC%E7%84%A1%E6%96%99%E3%81%A7Java%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%8410%E9%81%B8) 
 - [HerokuのPlay!](https://devcenter.heroku.com/articles/getting-started-with-play)
  - http://www.atmarkit.co.jp/ait/articles/1204/09/news114_2.html
  - Play framework、Heroku Toolbelt、SSHの生成が必要
