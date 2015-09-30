@@ -8,7 +8,7 @@
 - [paiza.io](https://paiza.io)を開いて、[ログイン]>[GitHubログイン]
 
 ## 教材紹介
-- [前期の資料(学内からのみアクセス可)](http://www.rye.tama.ac.jp/hiki/?Lecture)
+- [前期の資料(学内からのみアクセス可)](https://sites.google.com/a/tama.ac.jp/naka-lecture/desiws2015?pli=1)
 - [ドットインストール Java入門](http://dotinstall.com/lessons/basic_java)
 
 ## 今日の作業
