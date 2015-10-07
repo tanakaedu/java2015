@@ -3,7 +3,10 @@
 - PCを起動したら、ChromeかFirefoxを起動
 - [GitHub](https://github.com)にSign in
 - [paiza.io](https://paiza.io)を開いて、[ログイン]>[GitHubログイン]
-- 
+- [Google Classroom](https://classroom.google.com/)を開く
+
+# 3回目
+- [入出力、計算の復習](https://github.com/tanakaedu/java2015/wiki/03%E5%9B%9E%E7%9B%AE)
 
 ## 教材紹介
 - [前期の資料(学内からのみアクセス可)](https://sites.google.com/a/tama.ac.jp/naka-lecture/desiws2015?pli=1)
