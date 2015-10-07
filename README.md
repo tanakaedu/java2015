@@ -3,7 +3,7 @@
 - PCを起動したら、ChromeかFirefoxを起動
 - GitHubにSign in([こちら](https://github.com)を右クリックして、新しいタブで開く)
 - paiza.ioを開いて([こちら](https://paiza.io)を右クリックして、新しいタブで開く)、[ログイン]>[GitHubログイン]
-- [Google Classroom](https://classroom.google.com/)を開く([こちら](https://classroom.google.com/)を右クリックして、新しいタブで開く)
+- Google Classroomを開いて([こちら](https://classroom.google.com/)を右クリックして、新しいタブで開く)、デザインワークショップIIのページを開く。必要な場合はログインする
 
 # 3回目
 - [入出力、計算の復習](https://github.com/tanakaedu/java2015/wiki/03%E5%9B%9E%E7%9B%AE)
