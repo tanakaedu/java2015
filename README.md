@@ -1,11 +1,9 @@
 # デザインワークショップII(2015年) 
 
-## [出席登録へ](http://edu.amdv.net/java/att.php)
-
-# 2回目
 - PCを起動したら、ChromeかFirefoxを起動
 - [GitHub](https://github.com)にSign in
 - [paiza.io](https://paiza.io)を開いて、[ログイン]>[GitHubログイン]
+- 
 
 ## 教材紹介
 - [前期の資料(学内からのみアクセス可)](https://sites.google.com/a/tama.ac.jp/naka-lecture/desiws2015?pli=1)
