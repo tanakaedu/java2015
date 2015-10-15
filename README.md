@@ -5,6 +5,16 @@
 - paiza.ioを開いて([こちら](https://paiza.io)を右クリックして、新しいタブで開く)、[ログイン]>[GitHubログイン]
 - Google Classroomを開いて([こちら](https://classroom.google.com/)を右クリックして、新しいタブで開く)、デザインワークショップIIのページを開く。必要な場合はログインする
 
+# 5回目
+- if文の復習2
+  - 計算機の作成
+  - && と ||
+    - 乱数
+    - じゃんけん判定
+
+# 4回目
+- if文の復習
+
 # 3回目
 - [入出力、計算の復習](https://github.com/tanakaedu/java2015/wiki/03%E5%9B%9E%E7%9B%AE)
 
