@@ -1,7 +1,7 @@
 # デザインワークショップII(2015年) 
 
 - PCを起動したら、ChromeかFirefoxを起動
-- GitHubにSign in([こちら](https://github.com)を右クリックして、新しいタブで開く)
+- GitHubにSign inして、Repositoriesから[java2015]を選択してこのページを開く
 - paiza.ioを開いて([こちら](https://paiza.io)を右クリックして、新しいタブで開く)、[ログイン]>[GitHubログイン]
 - Google Classroomを開いて([こちら](https://classroom.google.com/)を右クリックして、新しいタブで開く)、デザインワークショップIIのページを開く。必要な場合はログインする
 
