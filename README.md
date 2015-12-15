@@ -10,7 +10,7 @@ WebAPIを利用して天気情報をPaiza.ioで表示するプログラムを作
 
 ## 参考情報
 - OpenWeatherMap http://openweathermap.org/api
-- paiza.io おすすめコード お天気情報 https://paiza.io/projects/0KZH4BITtSL8evp0fOFHOg
+- paiza.io おすすめコード お天気情報 https://paiza.io/projects/0MyflL94uWdCIlDLFYFvow
 
 ## 手順概要
 - OpenWeatherMap http://openweathermap.org/api を開く
