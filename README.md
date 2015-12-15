@@ -5,6 +5,25 @@
 - paiza.ioを開いて([こちら](https://paiza.io)を右クリックして、新しいタブで開く)、[ログイン]>[GitHubログイン]
 - Google Classroomを開いて([こちら](https://classroom.google.com/)を右クリックして、新しいタブで開く)、デザインワークショップIIのページを開く。必要な場合はログインする
 
+# 13回目
+WebAPIを利用して天気情報をPaiza.ioで表示するプログラムを作成して、手順をWordでまとめよ。
+
+## 参考情報
+- OpenWeatherMap http://openweathermap.org/api
+- paiza.io おすすめコード お天気情報 https://paiza.io/projects/0KZH4BITtSL8evp0fOFHOg
+
+## 手順概要
+- OpenWeatherMap http://openweathermap.org/api を開く
+- 右上で Sign Up をして登録する
+- 入力欄を埋めて、アカウントを作成する
+- 登録に成功するとページが切り替わる
+- API keyがアクセス時に使うキー。コピー＆ペーストはできないので書き写す
+- 画面上の[API]を選択
+- [How to use API key]のリンクをクリックして、APPIDの付け方を確認
+- paiza.ioのソースコード内に、東京の天気情報を取得するためのURLがある。その後ろに、上記で調べたAPPIDを付加してWebブラウザーでデータを取得できるか試す
+- paiza.ioのJavaでHTTP通信する例： https://paiza.io/projects/nitiOWXG4cUO1_sZE2HyWw
+
+
 # 8回目
 - じゃんけん判定の答え合わせ
 - 繰り返しの復習
