@@ -23,6 +23,9 @@ WebAPIを利用して天気情報をPaiza.ioで表示するプログラムを作
 - paiza.ioのソースコード内に、東京の天気情報を取得するためのURLがある。その後ろに、上記で調べたAPPIDを付加してWebブラウザーでデータを取得できるか試す
 - paiza.ioのJavaでHTTP通信する例： https://paiza.io/projects/nitiOWXG4cUO1_sZE2HyWw
 
+## JSONの変換
+- http://www.json.org/java/ で公開されている各JSON用クラスをpaiza.ioに定義すると使えるようになりそう。
+
 
 # 8回目
 - じゃんけん判定の答え合わせ
